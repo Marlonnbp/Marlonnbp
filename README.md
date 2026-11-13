@@ -1,12 +1,11 @@
 <img src="https://github.com/Marlonnbp/Marlonnbp/blob/main/matrix_banner.webp?raw=true" width="100%" alt="banner">
-<h1 align="center"><b>Hi , I'm Marlon </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-## Streak Stats & Languages
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Marlonnbp&background=0D1117&border=E63946&stroke=E63946&ring=E63946&fire=FF4D4D&currStreakNum=FF4D4D&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=FFFFFF&dates=9E9E9E" alt="Marlonnbp streak" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlonnbp&layout=compact&bg_color=0D1117&title_color=E63946&text_color=FFFFFF&border_color=E63946" alt="Marlonnbp top languages" /></p>
 
-<br>
-<hr/>
-<!--  -->
+<h1 align="center"><b>Hi, I'm Marlon</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+## Streak Stats
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Marlonnbp&background=0D1117&border=E63946&stroke=E63946&ring=E63946&fire=FF4D4D&currStreakNum=FF4D4D&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=FFFFFF&dates=9E9E9E" alt="Marlonnbp streak" /></p>
+
 <img align="right" width="300px" alt="cartoon" src="https://github.com/Marlonnbp/Marlonnbp/blob/main/cartoon.webp?raw=true" />
 
 ## My Skills Include
