@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/Marlonnbp/Marlonnbp/blob/main/matrix_banner_red.webp?raw=true&v=3" width="100%" alt="banner"><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=34&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=280&height=38&lines=Hi,+I'm+Marlon" alt="Hi, I'm Marlon" align="absmiddle">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" align="absmiddle"><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=20&duration=1&pause=100000&color=E63946&center=true&vCenter=true&width=330&height=28&lines=Software+Engineering+Student" alt="Software Engineering Student">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=34&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=280&height=36&lines=Hi,+I'm+Marlon" alt="Hi, I'm Marlon" align="absmiddle">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" align="absmiddle">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=1&pause=100000&color=E63946&center=true&vCenter=true&width=350&height=36&lines=Software+Engineering+Student" alt="Software Engineering Student" align="absmiddle">
 </p>
 
 ## Streak Stats
