@@ -1,7 +1,8 @@
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/Marlonnbp/Marlonnbp/blob/main/matrix_banner.webp?raw=true" width="100%" alt="banner"><br>
-  Hi, I'm Marlon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
-</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=40&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=330&height=50&lines=Hi,+I'm+Marlon" alt="Hi, I'm Marlon" align="absmiddle">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45" align="absmiddle">
+</p>
 
 ## Streak Stats
 
