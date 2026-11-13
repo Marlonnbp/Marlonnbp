@@ -2,8 +2,6 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="<img align="right" width="300px" alt="cartoon" src="https://raw.githubusercontent.com/Aurorp1g/Aurorp1g/main/cartoon.webp" />" />
 
-<img align="right" width="300px" alt="cartoon" src="https://raw.githubusercontent.com/Aurorp1g/Aurorp1g/main/cartoon.webp" />;
-
 ## My Skills Include
 
 <h4> Languages </h4>
