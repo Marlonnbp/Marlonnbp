@@ -6,7 +6,7 @@
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=26&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=220&height=30&lines=Streak+Stats" alt="Streak Stats" align="absmiddle">
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Marlonnbp&background=2A050A&border=FFFFFF&stroke=FFFFFF32&ring=E63946&fire=E63946&currStreakNum=2DDE98&sideNums=E63946&currStreakLabel=2DDE98&sideLabels=E63946&dates=FFFFFF&v=3" alt="Marlonnbp streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Marlonnbp&background=2A050A&border=FFFFFF&stroke=FFFFFF32&ring=E63946&fire=E63946&currStreakNum=2DDE98&sideNums=E63946&currStreakLabel=2DDE98&sideLabels=E63946&dates=FFFFFF&v=4" alt="Marlonnbp streak" /></p>
 
 ## My Skills Include
 
