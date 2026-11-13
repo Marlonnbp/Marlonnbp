@@ -5,7 +5,7 @@
 
 ## Streak Stats
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Marlonnbp&background=050F2C&border=E63946&stroke=E63946&ring=E63946&fire=E63946&currStreakNum=E63946&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=FFFFFF&dates=FFFFFF&v=2" alt="Marlonnbp streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Marlonnbp&background=2A050A&border=FFFFFF&stroke=FFFFFF32&ring=E63946&fire=E63946&currStreakNum=2DDE98&sideNums=E63946&currStreakLabel=2DDE98&sideLabels=E63946&dates=FFFFFF&v=3" alt="Marlonnbp streak" /></p>
 
 <img align="right" width="300px" alt="cartoon" src="https://github.com/Marlonnbp/Marlonnbp/blob/main/cartoon.webp?raw=true" />
 
