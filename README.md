@@ -1,10 +1,11 @@
-<img src="https://github.com/Marlonnbp/Marlonnbp/blob/main/matrix_banner.webp?raw=true" width="100%" alt="banner">
-
-<h3 align="center"><b>Hi, I'm Marlon</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+<h1 align="center">
+  <img src="https://github.com/Marlonnbp/Marlonnbp/blob/main/matrix_banner.webp?raw=true" width="100%" alt="banner"><br>
+  Hi, I'm Marlon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45">
+</h1>
 
 ## Streak Stats
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Marlonnbp&background=0D1117&border=E63946&stroke=E63946&ring=E63946&fire=FF4D4D&currStreakNum=FF4D4D&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=FFFFFF&dates=9E9E9E" alt="Marlonnbp streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Marlonnbp&background=050F2C&border=E63946&stroke=E63946&ring=E63946&fire=E63946&currStreakNum=E63946&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=FFFFFF&dates=FFFFFF&v=2" alt="Marlonnbp streak" /></p>
 
 <img align="right" width="300px" alt="cartoon" src="https://github.com/Marlonnbp/Marlonnbp/blob/main/cartoon.webp?raw=true" />
 
