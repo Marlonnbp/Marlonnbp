@@ -19,3 +19,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Proteus-1E5BA8?style=for-the-badge">
 </span>
+
+<h4> IDEs and Editors </h4>
+<span>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white">
+  <img src="https://img.shields.io/badge/Dev--C++-3A5BA0?style=for-the-badge">
+</span>
